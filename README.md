@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @NickLFranklin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Blockchain Security
+- 🌱 I’m currently learning python and blockchain secuirty tools
+- 💞️ I’m looking to collaborate on blockchian security
+- 📫 How to reach me
+-     https://twitter.com/0xNickLFranklin
+-     NickLFranklin@outlook.com
+-     https://t.me/NickLFranklin
+- 😄 Pronouns: He
+- ⚡ Fun fact: I can analyse hacking transactions faster than anyone, even Certik or Blocksec and etc
 
 <!---
 NickLFranklin/NickLFranklin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
