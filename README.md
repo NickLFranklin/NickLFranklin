@@ -5,7 +5,7 @@
 - 📫 How to reach me
 -     https://twitter.com/0xNickLFranklin
 -     NickLFranklin@outlook.com
--     https://t.me/NickLFranklin
+-     https://t.me/defi_sec
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can analyse hacking transactions faster than anyone, even Certik or Blocksec and etc
 
